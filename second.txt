@@ -1,0 +1,1 @@
+git remote add origin https://github.com/Neerajgupta5041/Python-assignment.gitgit remote add origin https://github.com/Neerajgupta5041/Python-assignment.gitimport numpy as npimport numpy as npimport numpy as npimport numpy as npimport numpy as npimport numpy as npimport numpy as np
